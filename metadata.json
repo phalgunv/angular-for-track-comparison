@@ -1,0 +1,6 @@
+{
+  "name": "Angular 21 Track Demo",
+  "description": "Educational architecture demonstration contrasting Angular 21 @for track $index vs track item.id DOM state reconciliation bugs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
